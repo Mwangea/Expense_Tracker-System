@@ -1,7 +1,7 @@
 # Expense_Tracker-System
 This expense management system project in PHP focuses mainly on dealing with each user’s expenses. Also, the system displays all the available expense categories and records. In addition, the system allows adding multiple users too. This project only contains a user panel. In an overview of this web application, the user can simply register for their own personal account. Meaning, each user will have their own personal expense records. A user can simply add daily expenses by entering an amount, date, and selecting any of the available categories. Here, the system presents a number of categories such as rent, medicine, entertainment, food, household, bills, etc.
 # Demo
-[Click here](dailyexpense.netlify.app)
+[here](https://dailyexpense.netlify.app)
 
 credentials
 ```
